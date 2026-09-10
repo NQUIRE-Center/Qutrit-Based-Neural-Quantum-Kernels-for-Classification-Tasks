@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Tue Mar 24 13:58:03 2026
-
-@author: ccristiano
+Author: Camila Cristiano-Romero
+Contact: ccristiano@bcamath.org / ccristiano001@ikasle.ehu.eus
+License: MIT License
 """
 
 
