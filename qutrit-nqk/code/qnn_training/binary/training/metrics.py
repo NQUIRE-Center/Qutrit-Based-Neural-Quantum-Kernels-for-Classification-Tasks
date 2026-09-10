@@ -1,3 +1,9 @@
+"""
+Author: Camila Cristiano-Romero
+Contact: ccristiano@bcamath.org / ccristiano001@ikasle.ehu.eus
+License: MIT License
+"""
+
 import torch
 from sklearn.metrics import (
     accuracy_score, f1_score,
