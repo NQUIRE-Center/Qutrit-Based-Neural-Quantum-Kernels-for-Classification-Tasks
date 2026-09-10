@@ -1,6 +1,10 @@
+"""
+Author: Camila Cristiano-Romero
+Contact: ccristiano@bcamath.org / ccristiano001@ikasle.ehu.eus
+License: MIT License
+"""
 
-#%%
- 
+#%% 
 import torch
 import numpy as np
 import pandas as pd
